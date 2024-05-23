@@ -1,12 +1,167 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\2mod\\Desktop\\ProjetoCliente\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16854AFF-509E-4AB1-B6C8-3280A2E62605}|ProjetoCliente.csproj|C:\\Users\\2mod\\Desktop\\ProjetoCliente\\repositorio\\clienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16854AFF-509E-4AB1-B6C8-3280A2E62605}|ProjetoCliente.csproj|solutionrelative:repositorio\\clienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16854AFF-509E-4AB1-B6C8-3280A2E62605}|ProjetoCliente.csproj|C:\\Users\\2mod\\Desktop\\ProjetoCliente\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16854AFF-509E-4AB1-B6C8-3280A2E62605}|ProjetoCliente.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16854AFF-509E-4AB1-B6C8-3280A2E62605}|ProjetoCliente.csproj|c:\\users\\2mod\\desktop\\projetocliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16854AFF-509E-4AB1-B6C8-3280A2E62605}|ProjetoCliente.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16854AFF-509E-4AB1-B6C8-3280A2E62605}|ProjetoCliente.csproj|C:\\Users\\2mod\\Desktop\\ProjetoCliente\\repositorio\\iclienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16854AFF-509E-4AB1-B6C8-3280A2E62605}|ProjetoCliente.csproj|solutionrelative:repositorio\\iclienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16854AFF-509E-4AB1-B6C8-3280A2E62605}|ProjetoCliente.csproj|C:\\Users\\2mod\\Desktop\\ProjetoCliente\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16854AFF-509E-4AB1-B6C8-3280A2E62605}|ProjetoCliente.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16854AFF-509E-4AB1-B6C8-3280A2E62605}|ProjetoCliente.csproj|C:\\Users\\2mod\\Desktop\\ProjetoCliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16854AFF-509E-4AB1-B6C8-3280A2E62605}|ProjetoCliente.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16854AFF-509E-4AB1-B6C8-3280A2E62605}|ProjetoCliente.csproj|C:\\Users\\2mod\\Desktop\\ProjetoCliente\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16854AFF-509E-4AB1-B6C8-3280A2E62605}|ProjetoCliente.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16854AFF-509E-4AB1-B6C8-3280A2E62605}|ProjetoCliente.csproj|C:\\Users\\2mod\\Desktop\\ProjetoCliente\\views\\cliente\\cliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16854AFF-509E-4AB1-B6C8-3280A2E62605}|ProjetoCliente.csproj|solutionrelative:views\\cliente\\cliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16854AFF-509E-4AB1-B6C8-3280A2E62605}|ProjetoCliente.csproj|C:\\Users\\2mod\\Desktop\\ProjetoCliente\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16854AFF-509E-4AB1-B6C8-3280A2E62605}|ProjetoCliente.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCliente\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCliente\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:28:18.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCliente\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCliente\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T18:24:42.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCliente\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCliente\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T17:58:34.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCliente\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCliente\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:29:21.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCliente\\Views\\Cliente\\Cliente.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cliente\\Cliente.cshtml",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCliente\\Views\\Cliente\\Cliente.cshtml",
+              "RelativeToolTip": "Views\\Cliente\\Cliente.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswCkAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T17:21:14.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IClienteRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCliente\\Repositorio\\IClienteRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\IClienteRepositorio.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCliente\\Repositorio\\IClienteRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\IClienteRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:10:09.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCliente\\Repositorio\\ClienteRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\ClienteRepositorio.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCliente\\Repositorio\\ClienteRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\ClienteRepositorio.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:09:10.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCliente\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCliente\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:53:08.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCliente\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCliente\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:51:14.065Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
